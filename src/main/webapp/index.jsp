@@ -82,7 +82,7 @@
     <h2 class="card-header text-center text-light">Registration Form</h2>
     <form class="form p-4" action="register" method="get">
         <div class="form-group">
-            <label for="name">Name:</label>
+            <label for="name">Name</label>
             <input type="text" class="form-control" id="name" name="name">
         </div>
         <div class="form-group">
